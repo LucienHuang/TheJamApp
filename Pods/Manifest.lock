@@ -1,0 +1,23 @@
+PODS:
+  - GoogleMaps (2.2.0):
+    - GoogleMaps/Maps (= 2.2.0)
+  - GoogleMaps/Base (2.2.0)
+  - GoogleMaps/Maps (2.2.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.2.0):
+    - GoogleMaps/Base (= 2.2.0)
+  - SwiftGifOrigin (1.6.1)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - SwiftGifOrigin (~> 1.6.1)
+
+SPEC CHECKSUMS:
+  GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
+  GooglePlaces: bca867d5e9da15384c794b945e4226848bc6e9d9
+  SwiftGifOrigin: d6679d3ebe9df2e049a84bc52582635107b581f6
+
+PODFILE CHECKSUM: 14c8ead7025be22e56e3c7b3c2efa0c79ad3d98f
+
+COCOAPODS: 1.2.1
